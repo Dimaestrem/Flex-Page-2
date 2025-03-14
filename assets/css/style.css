@@ -89,10 +89,18 @@ h3 {
 }
 
 .section-b .box {
-    padding-right: 20em;
+    padding: 3em 13em 4em 0em;
     text-align: left;
 }
 
 .section-b p {
     padding-top: 1em;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+    background-color: rgb(69, 69, 69);
+    color: white;
 }
