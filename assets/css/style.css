@@ -48,9 +48,9 @@ header img {
 }
 
 li img {
-    color: white;
-  width: 10em;
-  height: 10em;
+  color: white;
+  width: 4em;
+  height: 4em;
 }
 
 ul {
@@ -59,7 +59,7 @@ ul {
   flex-wrap: wrap;
   justify-content: center;
   min-width: 100%;
-  padding: 4em;
+  padding: 1em;
   background-color: black;
   color: white;
 }
@@ -74,33 +74,33 @@ ul {
 }
 
 .section-a p {
-   margin-top: 1em;
+  margin-top: 1em;
 }
 h3 {
-    margin-top: 1em;
+  margin-top: 1em;
 }
 .section-b {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .section-b .box:first-child {
-    padding-left: 25em;
-    padding-top: 4em;
+  padding-left: 25em;
+  padding-top: 6em;
 }
 
 .section-b .box {
-    padding: 3em 13em 4em 0em;
-    text-align: left;
+  padding: 3em 16em 4em 0em;
+  text-align: left;
 }
 
 .section-b p {
-    padding-top: 1em;
+  padding-top: 1em;
 }
 
 footer {
-    display: flex;
-    justify-content: center;
-    padding: 2em;
-    background-color: rgb(69, 69, 69);
-    color: white;
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+  background-color: rgb(69, 69, 69);
+  color: white;
 }
